@@ -1,13 +1,16 @@
 {
-  "name": "atom-package-template",
-  "theme": "atom-package-template",
+  "name": "g2g1bet_SLOT",
+  "theme": "G2G1BET สล็อตออนไลน์ สล็อตอันดับ 1 เว็บตรง",
   "version": "0.10.9",
-  "description": "เพิ่มตรงนี้",
+  "description": "G2G1BET สล็อตออนไลน์ สล็อตอันดับ 1 เว็บตรง",
   "keywords": [
-    "ใส่เพิ่มตรงนี้",
-    "เพิ่มตรงนี้"
+    "เว็บตรง",
+    "G2G1BET",
+    "สล็อต",
+    "เว็ปตรง",
+    "SLOT"
   ],
-  "repository": "https://github.com/7elven/atom-package-template",
+  "repository": "https://github.com/mrslomo/g2g1bet_SLOT.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
